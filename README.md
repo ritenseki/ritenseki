@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Use "He". I'm a boy.
 - ⚡ Fun fact: Hmm... I actually didn't know that.
 
-![](https://komarev.com/ghpvc/?username=Ritenseki)
+![](https://komarev.com/ghpvc/?username=Ritenseki&style=plastic)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Ritenseki&show_icons=true&icon_color=070420&title_color=070420)    
 
