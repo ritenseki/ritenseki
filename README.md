@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 <!--- 💬 Ask me about ...Maybe film & television? lol -->
-<!-- - 📫 How to reach me: ... -->
-- 😄 Pronouns: Use "He". I'm a boy.
+- 📫 How to reach me: email me please
+- 😄 Pronouns: Use "He".
 - ⚡ Fun fact: Hmm... I actually didn't know that.
 
 ![](https://komarev.com/ghpvc/?username=Ritenseki&style=plastic)
