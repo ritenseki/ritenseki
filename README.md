@@ -6,14 +6,14 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on studying.
-- 🌱 I’m currently learning Java & C & C++.
+- 🔭 I’m currently working on studying and OI.
+- 🌱 I’m currently learning C & C++.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -->
 <!--- 💬 Ask me about ...Maybe film & television? lol -->
-- 📫 How to reach me: email me please
+- 📫 How to reach me: email me please.
 - 😄 Pronouns: Use "He".
 - ⚡ Fun fact: Hmm... I actually didn't know that.
 
