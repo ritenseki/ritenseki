@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on studying and OI.
+- 🔭 I’m currently working on studying and Umacraft.
 - 🌱 I’m currently learning C & C++.
 <!--
 - 👯 I’m looking to collaborate on ...
