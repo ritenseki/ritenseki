@@ -1,21 +1,23 @@
 ### Hello there 👋
 
 <!--
-**Ritenseki/Ritenseki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ritenseki/ritenseki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on studying and Umacraft.
-- 🌱 I’m currently learning C & C++.
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--->
-<!--- 💬 Ask me about ...Maybe film & television? lol -->
+- 🔭 I’m currently working on Unity game designing & programming.
+- 🌱 I’m currently learning C#.
+- 👯 I’m looking to collaborate on guys who're interested in game creating.
+- 🤔 I’m looking for help with Game Jam competitions.
+<!--- 💬 Ask me about ... -->
 - 📫 How to reach me: email me please.
 - 😄 Pronouns: Use "He".
+<!---
 - ⚡ Fun fact: Hmm... I actually didn't know that.
+--->
+- 🎸 I'm enjoying play eletric guitar.
+- 🎞 My favourite band is MyGO!!!!!.
 
 ![](https://komarev.com/ghpvc/?username=Ritenseki&style=plastic)
 
