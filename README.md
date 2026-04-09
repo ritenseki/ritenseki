@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🏫 Major: Artificial Intelligence (Undergraduated)
 - 🏄‍  Often surfing on the Internet.
 - 🤔 Enjoy coding, Love LLMs more.
-** 💬 Ask me about ...**
+---
 - 📫 How to reach me: ritenseki@gmail.com.
 - 😄 Pronouns: He/Him.
